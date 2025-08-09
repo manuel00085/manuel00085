@@ -60,6 +60,8 @@ Sistema de notificaciones que alerta al usuario cuando es momento de realizar ma
 
 Lycos App facilita la gestión y el cuidado del vehículo, brindando una experiencia práctica y confiable para sus usuarios.
 
+https://play.google.com/store/apps/details?id=com.lycosdev.lycos
+
 
 - **Lycos Administrador** — Lycos Administrador es una aplicación web desarrollada con React y Material-UI (MUI), diseñada para gestionar eficientemente talleres, mecánicos y servicios dentro del ecosistema Lycos.
 
@@ -85,6 +87,8 @@ Realización de chequeos generales de vehículos y mucho más.
 
 Lycos Administrador facilita la administración integral y la comunicación entre talleres, mecánicos y clientes, asegurando un flujo de trabajo eficiente y transparente.
 
+https://panel.lycos-app.com/
+
 
 - **Lycos landing** — Lycos Landing es una página web desarrollada con Astro, que presenta la información principal del negocio Lycos de forma simple, rápida y atractiva.
 
@@ -97,6 +101,8 @@ Formulario de contacto por email para facilitar la comunicación directa con los
 Botón para descargar la aplicación móvil desde Google Play Store.
 
 Esta landing page funciona como punto de entrada digital para clientes interesados, brindando acceso rápido y directo a la app y al soporte.
+
+https://www.lycosteam.com/
 
 
 - 📱**Oficina Movil Fibex** —  Oficina Móvil Fibex es una aplicación móvil desarrollada con Angular e Ionic, diseñada para facilitar el pago y la gestión de servicios de internet para un ISP con más de 100,000 clientes.
@@ -117,6 +123,8 @@ Cambio de planes y gestión de servicios adicionales, incluyendo TV streaming y 
 
 Esta app es la herramienta principal para clientes de Fibex, mejorando la experiencia de usuario y la eficiencia en la gestión de sus servicios.
 
+https://oficinamovil.fibextelecom.net/
+
  
 - **Remates del Sol** — Remates del Sol es una aplicación desarrollada con React que facilita la gestión y venta de lotes de artículos en contenedores.
 
@@ -129,6 +137,8 @@ Vista pública donde los usuarios pueden explorar las ofertas disponibles.
 Panel administrativo para gestionar publicaciones y controlar contenido.
 
 Esta app simplifica la experiencia de compra-venta, ofreciendo un sistema organizado y accesible tanto para administradores como para clientes.
+
+https://rematesdelsol.com.ar/
 
 
 - **Biometrico Fibex** — Biométrico Fibex es una aplicación diseñada para el control de empleados de Fibex Telecom, que se conecta con todos los dispositivos biométricos instalados en las sucursales de la empresa.
