@@ -47,7 +47,8 @@
 ## 🌟 Proyectos destacados
 
 - **Lycos App** — breve descripción.
-- **Lycos Administrador** — breve descripción.  
+- **Lycos Administrador** — breve descripción.
+- **Lycos landing** — breve descripción.  
 - **Oficina Movil Fibex** — breve descripción.  
 - **Remates del Sol** — breve descripción.
 - **Biometrico Fibex** — breve descripción.
