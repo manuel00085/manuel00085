@@ -34,8 +34,6 @@
 ## 📈 Mis estadísticas
 
 ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel00085&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuel00085&show_icons=true&count_private=true)
-
 
 ---
 
@@ -48,11 +46,11 @@
 
 ## 🌟 Proyectos destacados
 
-- **Proyecto A** — breve descripción.  
-- **Proyecto B** — breve descripción.  
-- **Proyecto C** — breve descripción.  
-
-> Agrega enlaces directos a los repositorios reemplazando los textos arriba.
+- **Lycos App** — breve descripción.
+- **Lycos Administrador** — breve descripción.  
+- **Oficina Movil Fibex** — breve descripción.  
+- **Remates del Sol** — breve descripción.
+- **Biometrico Fibex** — breve descripción.
 
 ---
 
