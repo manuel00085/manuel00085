@@ -41,6 +41,7 @@
 
 - 📧 Email: [manuel00085@gmail.com](mailto:manuel00085@gmail.com)  
 - 💼 LinkedIn: [Manuel Rincon](https://www.linkedin.com/in/manuel00085/)
+- 🌐 Porfolio: [Manuel Rincon](https://portafolio-manuel-gamma.vercel.app/)
 
 ---
 
